@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://bigprof.com/appgini"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>BigProf AppGini - Добавить дополнения</title>
+ <link>http://bigprof.com/appgini/taxonomy/term/6/0</link>
+ <description>Дополнения AppGini позволяют расширять функциональность вашего сгенерированного приложения, добавляя специализированные отчеты, диаграммы, представления ... We&#039;re разработка расширяющегося списка дополнений, которые помогут вам значительно улучшить ваши веб-приложения баз данных.</description>
+ <language>ru</language>
+</channel>
+</rss>
